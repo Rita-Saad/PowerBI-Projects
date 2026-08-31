@@ -1,6 +1,6 @@
-👩‍💼 HR Dashboard – Power BI
+# HR Dashboard – Power BI
 
-📌 Project Overview
+##Project Overview
 
 An interactive HR Analytics Dashboard built with Microsoft Power BI to analyze employee data, attendance, salaries, and employee attrition.
 
